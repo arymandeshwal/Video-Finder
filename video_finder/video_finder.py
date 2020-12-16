@@ -12,7 +12,7 @@ import pandas as pd
 # In[2]:
 
 
-api_key = "AIzaSyD121AwAdKYfbk0Z7Gc0XYF3FKxPzFu0J4"
+api_key = ""
 youtube = build("youtube","v3",developerKey=api_key)
 
 
